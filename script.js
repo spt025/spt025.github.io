@@ -40,10 +40,10 @@ const textToType = [
     "Loading profile data...",
     "Name: Suhrud Thakkar",
     "Role: Senior Software Engineer",
-    "Stack: JavaScript, Python, C++, React, Swift, Rust",
+    "Stack: Swift, SwiftUI, JavaScript, Python, C++, Rust, Java, R",
     "Status: Ready to code.",
     " ",
-    "Press any key to contact..." // You can add logic for this later
+    "Website under construction..." // You can add logic for this later
 ];
 
 const typingElement = document.getElementById('typing-text');
